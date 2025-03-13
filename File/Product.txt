@@ -1,0 +1,2 @@
+2, Gucci HandBag, 21, 40, Fashion
+3, SmartPhone, 210, 71, Phone
